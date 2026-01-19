@@ -1,7 +1,7 @@
 rule ELF_DarkProcess_Loader {
     meta:
         description = "Mendeteksi file binary 'harmless' yang memuat payload DarkProcess v1.3"
-        author = "Hasbi yang perbaiki"
+        author = "Hasbi"
         date = "2025-12-03"
         filetype = "ELF"
         
