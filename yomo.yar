@@ -1,7 +1,7 @@
 rule ELF_FileInspector_Tool {
     meta:
         description = "Mendeteksi tool CLI 'FileInspector' (yomo)"
-        author = "Hasbi yang perbaiki"
+        author = "Hasbi"
         date = "2025-12-03"
         filetype = "ELF"
 
